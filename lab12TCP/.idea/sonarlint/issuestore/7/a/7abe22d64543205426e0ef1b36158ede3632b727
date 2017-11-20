@@ -1,0 +1,14 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒõöşÿÿÿÿ8ÿáÎòö+
+=squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆùŠÛùÿÿÿÿ
+ysquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(•İÈ‚ıÿÿÿÿ8öô„­ù+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8©…ü÷+
