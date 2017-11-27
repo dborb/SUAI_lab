@@ -1,0 +1,16 @@
+
+1squid:S1220""Move this file to a named package.
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıåµ‘
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıåµ‘
+=squid:S1604"(Make this anonymous inner class a lambda(…„√Æ
+<squid:S2189""Add an end condition to this loop.(òÔàûˇˇˇˇˇ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıåµ‘
+<squid:S2189""Add an end condition to this loop.(òÔàûˇˇˇˇˇ
+psquid:S1450"[Remove the "receivedData" field and declare it as a local variable in the relevant methods.(õ¯Áƒ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ◊–á˚ˇˇˇˇ
+=squid:S1604"(Make this anonymous inner class a lambda(…„√Æ
+Bsquid:S1068"(Remove this unused "port" private field.(ÑÉ§ ˝ˇˇˇˇ

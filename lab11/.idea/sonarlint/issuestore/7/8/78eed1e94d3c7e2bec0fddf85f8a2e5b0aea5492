@@ -1,0 +1,12 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥«Öü
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Ë¸é
+1squid:S1220""Move this file to a named package.
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(õŒµÔ
+Tsquid:S2259"?A "NullPointerException" could be thrown; "s" is nullable here.(Æñ‘
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Fsquid:S1612",Replace this lambda with a method reference.(³ùá—üÿÿÿÿ
+asquid:S2259"EA "NullPointerException" could be thrown; "fserver" is nullable here.(‡ÕÃù8¼Ëèëô+
